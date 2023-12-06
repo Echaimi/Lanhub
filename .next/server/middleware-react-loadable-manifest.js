@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"details.jsx -> ../components/SingleMap\":{\"id\":\"details.jsx -> ../components/SingleMap\",\"files\":[\"static/chunks/components_SingleMap_jsx.js\"]},\"search.jsx -> ../components/Map\":{\"id\":\"search.jsx -> ../components/Map\",\"files\":[\"static/chunks/components_Map_jsx.js\"]}}"
