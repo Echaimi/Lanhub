@@ -1,1 +1,45 @@
+# Dependency directories
 node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variable files
+.env
+.env.test
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Debug log from npm
+npm-debug.log*
+
+# Log files
+*.log
+*.log.*
+
+# Editor directories and files
+.idea
+*.swp
+*.swo
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
